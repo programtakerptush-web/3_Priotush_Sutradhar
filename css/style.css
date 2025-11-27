@@ -1,0 +1,18 @@
+
+#weatherImage {
+    font-size: 70px;
+    margin-top: 10px;
+}
+#details {
+    font-size: 18px;
+    font-weight: bold;
+}
+#message {
+    color: red;
+    font-weight: bold;
+}
+
+
+
+
+
